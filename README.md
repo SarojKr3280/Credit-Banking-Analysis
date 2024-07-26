@@ -1,6 +1,5 @@
 # Credit-Banking-Analysis
 # Problem Statement
-<br>
 <h3> Sanity Checks – Data Cleaning </h3>
 <br>
  Note – All tasks need to be completed for month basis i.e. write logic for monthly calculations not 
@@ -11,7 +10,7 @@ cumulative for entire period.
  Is there any customer who have spent more than his/her Credit Limit for any particular month.
 <br>
 
-# Tasks
+<h3> Tasks </h3>
 <br>
  Monthly spend of each customer.
 <br>
