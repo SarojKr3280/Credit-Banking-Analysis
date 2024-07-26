@@ -1,7 +1,7 @@
 # Credit-Banking-Analysis
 # Problem Statement
 <br>
-Sanity Checks – Data Cleaning
+<h3> Sanity Checks – Data Cleaning </h3>
 <br>
  Note – All tasks need to be completed for month basis i.e. write logic for monthly calculations not 
 cumulative for entire period.
