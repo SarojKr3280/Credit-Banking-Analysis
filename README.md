@@ -1,4 +1,4 @@
-# Credit-Banking-Analysis
+# Credit Banking Analysis
 # Problem Statement
 <h3> Sanity Checks – Data Cleaning </h3>
 <br>
