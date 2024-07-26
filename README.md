@@ -4,8 +4,12 @@ Sanity Checks – Data Cleaning
 <br>
  Note – All tasks need to be completed for month basis i.e. write logic for monthly calculations not 
 cumulative for entire period.
- rovide a meaningful treatment to all values where age is less than 18.
+<br>
+ provide a meaningful treatment to all values where age is less than 18.
+<br>
  Is there any customer who have spent more than his/her Credit Limit for any particular month.
+<br><br>
+
 Tasks
  Monthly spend of each customer.
  Monthly repayment of each customer.
